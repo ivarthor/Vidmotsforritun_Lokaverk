@@ -11,7 +11,7 @@
 <h1> <a href="https://youtu.be/On265IPyBzQ">Showcase af virkni</a> </h1>
 
 <h1>Búnaður</h1>
-<a href="https://github.com/ivarthor/Vidmotsforritun_Lokaverk/blob/main/led_strips_ledstripfet.jpg">Uppsetning á búnaði</a>
+<a href="https://github.com/ivarthor/Vidmotsforritun_Lokaverk/blob/main/bunadur.jpg">Uppsetning á búnaði</a>
 
 <h1> Stutt dagbók um vinnuna mína í þessu verkefni</h1>
 <h2> 4/29/2021 </h2>
