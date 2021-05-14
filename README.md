@@ -8,7 +8,7 @@
    <p>Hægt að cycle-a í gegnum nokkra liti með því að færa eitthvað fjær eða nær sonar sensorinum</p>
  
 
-<h1> <a href="https://youtu.be/On265IPyBzQ">Showcase af virkni</a> </h1>
+<h1> <a href="https://youtu.be/iHMvsITRNIo">Showcase af virkni</a> </h1>
 
 <h1>Búnaður</h1>
 <a href="https://github.com/ivarthor/Vidmotsforritun_Lokaverk/blob/main/bunadur.jpg">Uppsetning á búnaði</a>
@@ -34,6 +34,8 @@
  <h2> 5/13/2021 </h2>
   <p> Gerði loka kóðann og tengdi allt saman, allt virkaði eins og ég bjóst við nema það að einn tranistor var eitthvað bilaður og varð til þess að
       lita channel-ið sem var tengd við hann varð alltaf kveikt </p>
+  <h2> 5/14/2021 </h2>
+  <p> Fór í skólann og skipti transistorinum og skilaði öllu sem ég fékk lánað, allt virkaði perfectly eftir að ég skipti transistorinum </p>
   
   
  
